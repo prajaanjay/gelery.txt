@@ -1,2 +1,2 @@
-# gelery.txt
+# gelery.php
 Repossitory  untuk menyimpan galery
